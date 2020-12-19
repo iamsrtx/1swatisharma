@@ -532,6 +532,22 @@ td, th {
   padding-top: 170px;
 }
 
+.plp-20 {
+  padding-left: 20%;
+}
+
+.plp-5 {
+  padding-left: 6%;
+}
+
+.pdp-5 {
+  padding-bottom: 6%;
+}
+
+.ptp-5 {
+  padding-top: 5%;
+}
+
 .pb-0 {
   padding-bottom: 0px;
 }
